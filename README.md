@@ -7,6 +7,10 @@ mutex contention, and acknowledgment latency.
 All code runs on **Linux** with **C++17**. 
 
 ## How to Run
-All team members participated in the writing of functions and methods for the benchmarks.
+All team members participated in the writing of functions and methods for the benchmarks, which are measured on Brooks. to run each code on its own, run:
 
-MORE INSTRUCTIONS COMING SOON
+
+There is a shell script (run_experiment.sh) which runs the entire experiment autonomously.
+
+Flags:
+These flags can be used to run specific parts of the benchmark with the shell script. If you 
