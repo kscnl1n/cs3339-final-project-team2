@@ -1,4 +1,4 @@
-## EMD EPYC Game Server Load Simulation Project
+## AMD EPYC Game Server Load Simulation Project
 
 This repository provides a minimal TCP multiplayer server and open-loop load generator to study how **worker-thread count**
 and **concurrent player population** affect message throughput, CPU use, queue delay,
